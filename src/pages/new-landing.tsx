@@ -44,7 +44,7 @@ function newlanding(props) {
                 </div>
                 {Menushowing === true && <div
                   className="bg-black text-white  border  border-white border-opacity-20  my-auto fixed top-[50px] md:top-[50px] bottom-[50px] left-[20px] md:left-[50px] h-[80vh] md:h-[90vh] w-[90vw] md:w-[300px] rounded-md"
-                  style={{ zIndex: '99' }}>
+                  style={{ zIndex: 99 }}>
                   <div className="">
                     <div className="mt-[30px] ml-[28px] " onClick={() => setMenuShowing(false)}>
                       <button>

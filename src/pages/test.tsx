@@ -7,7 +7,7 @@ function test(props) {
 
   return (
     <div>
-      <p>dmnjnccjsd</p>
+
       <YtbPopUp />
     </div>
   );

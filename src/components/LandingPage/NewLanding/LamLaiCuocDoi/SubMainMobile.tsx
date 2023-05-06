@@ -30,7 +30,7 @@ function SubMainMobile(props) {
         height: "100vh",
         width: "240px",
         overflowY: "auto",
-        zIndex: "99",
+        zIndex: 99,
         pointerEvents: "all",
 
       }}
