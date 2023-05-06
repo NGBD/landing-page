@@ -1,0 +1,27 @@
+
+Ghost.png
+size: 1880,833
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aura
+  rotate: true
+  xy: 862, 16
+  size: 815, 797
+  orig: 838, 814
+  offset: 14, 7
+  index: -1
+aura_02
+  rotate: true
+  xy: 1661, 588
+  size: 243, 217
+  orig: 261, 260
+  offset: 1, 25
+  index: -1
+character
+  rotate: false
+  xy: 2, 2
+  size: 858, 829
+  orig: 861, 833
+  offset: 1, 1
+  index: -1

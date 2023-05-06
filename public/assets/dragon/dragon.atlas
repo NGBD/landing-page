@@ -1,0 +1,41 @@
+
+dragon.png
+size: 959,667
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: true
+  xy: 885, 319
+  size: 170, 47
+  orig: 173, 52
+  offset: 1, 3
+  index: -1
+Layer 3
+  rotate: true
+  xy: 885, 158
+  size: 159, 59
+  orig: 162, 67
+  offset: 1, 2
+  index: -1
+Layer 4
+  rotate: true
+  xy: 885, 491
+  size: 174, 47
+  orig: 178, 56
+  offset: 2, 2
+  index: -1
+dragon
+  rotate: true
+  xy: 2, 2
+  size: 663, 881
+  orig: 664, 881
+  offset: 0, 0
+  index: -1
+particle (10)
+  rotate: false
+  xy: 885, 29
+  size: 72, 127
+  orig: 128, 128
+  offset: 28, 0
+  index: -1
