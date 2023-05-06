@@ -1,11 +1,17 @@
 import React from 'react';
-import DiscordIcon from '../../../icons/DiscordIcon';
-import FacebookIcon from '../../../icons/FacebookIcon';
-import TelegramIcon from '../../../icons/TelegramIcon';
-import TiktokIcon from '../../../icons/TiktokIcon';
-import TwitterIcon from '../../../icons/TwitterIcon';
-import YoutubeIcon from '../../../icons/YoutubeIcon';
-import HeroVideoPopup from '../../HeroVideoPopup';
+import DiscordIcon from '../icons/DiscordIcon';
+import FacebookIcon from '../icons/FacebookIcon';
+import TelegramIcon from '../icons/TelegramIcon';
+import TiktokIcon from '../icons/TiktokIcon';
+import TwitterIcon from '../icons/TwitterIcon';
+import YoutubeIcon from '../icons/YoutubeIcon';
+// import DiscordIcon from '../../../icons/DiscordIcon';
+// import FacebookIcon from '../../../icons/FacebookIcon';
+// import TelegramIcon from '../../../icons/TelegramIcon';
+// import TiktokIcon from '../../../icons/TiktokIcon';
+// import TwitterIcon from '../../../icons/TwitterIcon';
+// import YoutubeIcon from '../../../icons/YoutubeIcon';
+// import HeroVideoPopup from '../../HeroVideoPopup';
 
 function SubHero(props) {
   return (

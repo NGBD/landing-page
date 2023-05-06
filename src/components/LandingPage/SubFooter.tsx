@@ -1,10 +1,16 @@
 import React from 'react';
-import { DiscordIconMobile } from '../../../icons/DiscordIcon';
-import { FacebookIconFooter } from '../../../icons/FacebookIcon';
-import { TelegramIconMobile } from '../../../icons/TelegramIcon';
-import { TiktokIconMobile } from '../../../icons/TiktokIcon';
-import { TwitterIconMobile } from '../../../icons/TwitterIcon';
-import { YoutubeIconMobile } from '../../../icons/YoutubeIcon';
+import { DiscordIconMobile } from '../icons/DiscordIcon';
+import { FacebookIconFooter } from '../icons/FacebookIcon';
+import { TelegramIconMobile } from '../icons/TelegramIcon';
+import { TiktokIconMobile } from '../icons/TiktokIcon';
+import { TwitterIconMobile } from '../icons/TwitterIcon';
+import { YoutubeIconMobile } from '../icons/YoutubeIcon';
+// import { DiscordIconMobile } from '../../../icons/DiscordIcon';
+// import { FacebookIconFooter } from '../../../icons/FacebookIcon';
+// import { TelegramIconMobile } from '../../../icons/TelegramIcon';
+// import { TiktokIconMobile } from '../../../icons/TiktokIcon';
+// import { TwitterIconMobile } from '../../../icons/TwitterIcon';
+// import { YoutubeIconMobile } from '../../../icons/YoutubeIcon';
 
 
 function SubFooter(props) {

@@ -3,7 +3,7 @@ import Link from "next/link"
 
 function YoutubeIcon(props) {
   return (
-    <Link href={`https://www.youtube.com/channel/UCs69Rvm26wDYf7-r3YX2Bzw`}>
+    <Link href={``}>
       <a target="_blank" className="scale-95 hover:scale-100 smooth-transform">
         <svg
           width={59}
@@ -31,7 +31,7 @@ export default YoutubeIcon
 
 export function YoutubeIconMobile(props) {
   return (
-    <Link href={`https://www.youtube.com/channel/UCs69Rvm26wDYf7-r3YX2Bzw`}>
+    <Link href={``}>
       <a target="_blank" className="scale-95 hover:scale-100 smooth-transform">
         <svg
           width={59}

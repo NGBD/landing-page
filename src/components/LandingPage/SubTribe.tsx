@@ -1,11 +1,17 @@
 import React, { useState } from 'react';
 import Carousel from 'react-multi-carousel';
-import TribeSlideBtn from '../../../icons/TribeSlideBtn';
-import SecondAngel from '../SecondAngel';
-import SecondDragon from '../SecondDragon';
-import SecondMerman from '../SecondMerman';
-import SecondShadow from '../SecondShadow';
-import SecondTreant from '../SecondTreant';
+import TribeSlideBtn from '../icons/TribeSlideBtn';
+import SecondAngel from './SecondAngel';
+import SecondDragon from './SecondDragon';
+import SecondMerman from './SecondMerman';
+import SecondShadow from './SecondShadow';
+import SecondTreant from './SecondTreant';
+// import TribeSlideBtn from '../../../icons/TribeSlideBtn';
+// import SecondAngel from '../SecondAngel';
+// import SecondDragon from '../SecondDragon';
+// import SecondMerman from '../SecondMerman';
+// import SecondShadow from '../SecondShadow';
+// import SecondTreant from '../SecondTreant';
 
 function SubTribe(props) {
 

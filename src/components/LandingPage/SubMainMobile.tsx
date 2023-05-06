@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import ClosePopupIcon from '../../../icons/ClosePopupIcon';
+// import ClosePopupIcon from '../../../icons/ClosePopupIcon';
 import NavMobile from './NavMobile';
 
 function SubMainMobile(props) {

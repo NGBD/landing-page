@@ -3,7 +3,7 @@ import Link from "next/link"
 
 function TiktokIcon(props) {
   return (
-    <Link href={`https://www.tiktok.com/@demole.io`}>
+    <Link href={``}>
       <a target="_blank" className="scale-95 hover:scale-100 smooth-transform">
         <svg
           width={59}
@@ -31,7 +31,7 @@ export default TiktokIcon
 
 export function TiktokIconMobile(props) {
   return (
-    <Link href={`https://www.tiktok.com/@demole.io`}>
+    <Link href={``}>
       <a target="_blank" className="scale-95 hover:scale-100 smooth-transform">
         <svg
           width={59}

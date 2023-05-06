@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import ClosePopupIcon from '../../../icons/ClosePopupIcon';
+import ClosePopupIcon from '../icons/ClosePopupIcon';
+// import ClosePopupIcon from '../../../icons/ClosePopupIcon';
 
 function NavMobile(props) {
   // const [navHidden, setnavHidden] = useState(false)
@@ -18,6 +19,7 @@ function NavMobile(props) {
       pointerEvents: "all",
       // clipPath: "circle(2200px at 40px 40px)",
     }}
+
     >
 
       <div className="mt-4">

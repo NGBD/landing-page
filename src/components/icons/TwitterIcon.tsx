@@ -3,7 +3,7 @@ import Link from "next/link"
 
 function TwitterIcon(props) {
   return (
-    <Link href={`https://twitter.com/demoleio`}>
+    <Link href={``}>
       <a target="_blank" className="scale-95 hover:scale-100 smooth-transform">
         <svg
           width={59}
@@ -31,7 +31,7 @@ export default TwitterIcon
 
 export function TwitterIconMobile(props) {
   return (
-    <Link href={`https://twitter.com/demoleio`}>
+    <Link href={``}>
       <a target="_blank" className="scale-95 hover:scale-100 smooth-transform">
         <svg
           width={59}

@@ -3,7 +3,7 @@ import Link from "next/link"
 
 function FacebookIcon(props) {
   return (
-    <Link href={`https://www.facebook.com/Demole.Official/`}>
+    <Link href={``}>
       <a target="_blank" className="scale-95 hover:scale-100 smooth-transform">
         <svg
           width={59}
@@ -31,7 +31,7 @@ export default FacebookIcon
 
 export function FacebookIconFooter(props) {
   return (
-    <Link href={`https://www.facebook.com/Demole.Official/`}>
+    <Link href={``}>
       <a target="_blank" className="scale-95 hover:scale-100 smooth-transform">
         <svg
           width={59}
