@@ -7,15 +7,7 @@ import SubPTE from '../components/LandingPage/SubPTE';
 import SubRoadMap from '../components/LandingPage/SubRoadMap';
 import SubToken from '../components/LandingPage/SubToken';
 import SubTribe from '../components/LandingPage/SubTribe';
-// import SubFooter from '../components/LandingPage/NewLanding/LamLaiCuocDoi/SubFooter';
-// import SubHero from '../components/LandingPage/NewLanding/LamLaiCuocDoi/SubHero';
 
-// import SubMainNav from '../components/LandingPage/NewLanding/LamLaiCuocDoi/SubMainNav';
-// import SubPartner from '../components/LandingPage/NewLanding/LamLaiCuocDoi/SubPartner';
-// import SubPTE from '../components/LandingPage/NewLanding/LamLaiCuocDoi/SubPTE';
-// import SubRoadMap from '../components/LandingPage/NewLanding/LamLaiCuocDoi/SubRoadMap';
-// import SubToken from '../components/LandingPage/NewLanding/LamLaiCuocDoi/SubToken';
-// import SubTribe from '../components/LandingPage/NewLanding/LamLaiCuocDoi/SubTribe';
 
 function remake(props) {
   return (
